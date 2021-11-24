@@ -1,6 +1,0 @@
-hello GitHub
-GitHub上写一些内容
-VS code上写内容
-修改email 隐私保护,提交信息不能包含GitHub的个人邮箱账号,否则远程会拒绝
-## 问题：
-vs code不能直接连接GitHub仓库
