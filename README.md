@@ -16,8 +16,8 @@ eg:https://cdn.jsdelivr.net/gh/onePeng/test/ycy2.mp4
 > https://raw.githubusercontent.com/onePeng/test/main/ycyimg.jpg
 >
 > https://raw.githubusercontent.com/onePeng/test/main/ycymusic.mp4
-
-https://raw.githubusercontent.com/onePeng/test/main/ycy2.mp4
+> 
+> https://raw.githubusercontent.com/onePeng/test/main/ycy2.mp4
 >
 > - ps：视频文件无法在GitHub上预览，可以点击文件前面的小云朵跳到jsdelivr预览!
 >
