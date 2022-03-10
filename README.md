@@ -11,6 +11,8 @@ eg:https://cdn.jsdelivr.net/gh/onePeng/test/ycymusic.mp4
 
 eg:https://cdn.jsdelivr.net/gh/onePeng/test/ycy2.mp4
 
+eg:https://cdn.jsdelivr.net/gh/onePeng/test/#冰墩墩妆容 - 抖音.mp4
+
 > GitHub raw链接：
 >
 > https://raw.githubusercontent.com/onePeng/test/main/ycyimg.jpg
