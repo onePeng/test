@@ -13,6 +13,10 @@ eg:https://cdn.jsdelivr.net/gh/onePeng/test/ycy2.mp4
 
 eg:https://cdn.jsdelivr.net/gh/onePeng/test/%23冰墩墩妆容%20-%20抖音.mp4
 
+eg:https://cdn.jsdelivr.net/gh/onePeng/test/杨超越配音.mp4
+
+eg:https://cdn.jsdelivr.net/gh/onePeng/test/杨超越夹子音.mp4
+
 > GitHub raw链接：
 >
 > https://raw.githubusercontent.com/onePeng/test/main/ycyimg.jpg
