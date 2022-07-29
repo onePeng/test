@@ -1,4 +1,4 @@
-# jsdilevr CDN加速
+# jsdilevr CDN加速（目前已失效）
 ## jsdilevr CDN
 
 加速地址：
